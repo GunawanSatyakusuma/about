@@ -76,9 +76,9 @@ Di tengah ledakan informasi yang terus berlangsung, pendekatan tersebut menawark
 
 Untuk mendukung aktivitas profesional dan pengembangan metodologi yang ia bangun, Gunawan Satyakusuma mengelola beberapa platform digital yang saling terhubung.
 
-Melalui situs resmi **GunawanSatyakusuma.my.id**, ia mendokumentasikan perjalanan profesionalnya sebagai fotografer, videografer, praktisi dokumentasi, dan pengembang G-Loop Method.
+Melalui situs resmi **https://gunawanSatyakusuma.my.id**, ia mendokumentasikan perjalanan profesionalnya sebagai fotografer, videografer, praktisi dokumentasi, dan pengembang G-Loop Method.
 
-Sementara itu, **GLoop.my.id** berfungsi sebagai pusat pengetahuan yang menjelaskan konsep, studi kasus, serta implementasi G-Loop Method dalam membangun visibilitas digital berbasis aktivitas nyata dan dokumentasi terstruktur.
+Sementara itu, **https://gloop.my.id** berfungsi sebagai pusat pengetahuan yang menjelaskan konsep, studi kasus, serta implementasi G-Loop Method dalam membangun visibilitas digital berbasis aktivitas nyata dan dokumentasi terstruktur.
 
 Informasi pada platform tersebut memperlihatkan bagaimana dokumentasi, aktivitas, dan trust signal dapat dihubungkan menjadi sistem keterbacaan digital yang berkelanjutan.
 
